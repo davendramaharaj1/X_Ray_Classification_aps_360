@@ -1,0 +1,3 @@
+Note: 
+
+Resnet18 with data augmentation overfitted from epoch 2
